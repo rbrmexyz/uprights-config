@@ -1,0 +1,21 @@
+{
+  "tuning": {
+    "windPush": 0.32,
+    "windGripUp": 0.45,
+    "windGripDownMax": 2.0,
+    "windMaxStart": 12,
+    "windMaxAdd": 24,
+    "windMinFraction": 0.5,
+    "rampMakes": 10,
+    "yardLineMaxStart": 12,
+    "yardLineMaxAdd": 26,
+    "sweetSpot": 0.14,
+    "aimSensitivity": 0.5,
+    "idealMargin": 1.1,
+    "overcookShank": 1.6,
+    "overcookSpray": 0.1
+  },
+  "sponsors": {
+    "wall": []
+  }
+}
