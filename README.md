@@ -34,6 +34,7 @@ Put artwork in `sponsors/` and list it by full URL, e.g.
 | `ribbon` | 1024×48 | LED ribbon between the tiers; scrolls |
 | `board` | 1068×64 | Strip along the bottom of the video board |
 | `pad` | 512×128 | Wraps the goal post pad |
+| `net` | 1024×410, transparent PNG | Printed on the kicking net behind the posts — seen on every kick |
 
 ```json
 "sponsors": {
