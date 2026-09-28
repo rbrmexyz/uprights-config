@@ -33,7 +33,7 @@ Put artwork in `sponsors/` and list it by full URL, e.g.
 | `wall` | 256×44, up to 4 | Field wall boards, repeated around the stadium |
 | `ribbon` | 1024×48 | LED ribbon between the tiers; scrolls |
 | `board` | 1068×64 | Strip along the bottom of the video board |
-| `pad` | 512×128 | Wraps the goal post pad |
+| `pad` | 512×128 logo, or 1024×920 full wrap | Goal post pad, fully wrapped. A wide logo runs up the pad on its own background colour; a near-square image is used as the whole wrap |
 | `net` | 1024×410, transparent PNG | Printed on the kicking net behind the posts — seen on every kick |
 
 ```json
