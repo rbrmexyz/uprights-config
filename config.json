@@ -13,7 +13,10 @@
     "aimSensitivity": 0.5,
     "idealMargin": 1.1,
     "overcookShank": 1.6,
-    "overcookSpray": 0.1
+    "overcookSpray": 0.1,
+    "flickBase": 8,
+    "flickGain": 7,
+    "maxSpeed": 31
   },
   "sponsors": {
     "wall": []
