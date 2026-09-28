@@ -20,5 +20,16 @@
   },
   "sponsors": {
     "wall": []
+  },
+  "challenge": {
+    "id": "2026-w40",
+    "title": "The 58-yarder",
+    "subtitle": "Week 4 \u00b7 into the wind",
+    "yards": 58,
+    "spot": "right",
+    "windMph": 12,
+    "windDir": 180,
+    "tries": 5,
+    "notify": "This week: a 58-yarder into a 12 mph wind. 5 tries. How many can you make?"
   }
 }

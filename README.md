@@ -52,3 +52,34 @@ Any slot you leave out shows plain stadium (dark boards, bare net, plain ball). 
 
 Changes take up to ~10 minutes to reach GitHub Pages. JSON is picky: check commas and quotes,
 because a broken file is ignored and the app keeps its last good settings.
+
+## Weekly challenge
+
+The `challenge` block sets this week's kick. Change the `id` every week (bests and the
+Monday reminder follow it). Players get 5 tries; their best number of makes goes on the
+Game Center **Weekly Challenge** board, which resets every week by itself.
+
+```json
+"challenge": {
+  "id": "2026-w41",
+  "title": "Sunday's 61-yarder",
+  "subtitle": "Week 5 · Sunday night",
+  "yards": 61,
+  "spot": "right",
+  "windMph": 14,
+  "windDir": 180,
+  "tries": 5,
+  "notify": "Sunday's 61-yarder is this week's challenge. 5 tries. Go."
+}
+```
+
+| Field | Meaning |
+|---|---|
+| `yards` | Attempt distance (17–77) |
+| `spot` | `left`, `middle` or `right` hash |
+| `windMph` | Wind strength |
+| `windDir` | `0` tailwind, `180` headwind, `90` blowing right, `-90` blowing left |
+| `notify` | The Monday 10am reminder text (optional) |
+
+Describe real kicks by distance, place and time. Don't name players or teams.
+Remove the block to turn the challenge off.
