@@ -9,7 +9,7 @@
     "rampMakes": 10,
     "yardLineMaxStart": 12,
     "yardLineMaxAdd": 26,
-    "sweetSpot": 0.14,
+    "sweetSpot": 0.24,
     "aimSensitivity": 0.5,
     "idealMargin": 1.1,
     "overcookShank": 1.6,

@@ -17,7 +17,7 @@ no new build needed. Leave a number out and the app uses its built-in default.
 | `rampMakes` | Makes in a row until difficulty tops out | 10 |
 | `yardLineMaxStart` | Furthest spot early on (yard line; add 17 for the attempt) | 12 |
 | `yardLineMaxAdd` | Extra yards of range at full difficulty | 26 |
-| `sweetSpot` | Clean-contact zone as a share of the ball's width (0–0.9) | 0.14 |
+| `sweetSpot` | Clean-contact zone as a share of the ball's width (0–0.9) | 0.24 |
 | `aimSensitivity` | How much the swipe angle turns the kick | 0.5 |
 | `idealMargin` | Ideal flick = just clears the bar × this | 1.1 |
 | `overcookShank` | How much an overswing knocks the strike off-centre | 1.6 |
