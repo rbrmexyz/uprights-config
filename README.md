@@ -79,7 +79,7 @@ Game Center **Weekly Challenge** board, which resets every week by itself.
 | `spot` | `left`, `middle` or `right` hash |
 | `windMph` | Wind strength |
 | `windDir` | `0` tailwind, `180` headwind, `90` blowing right, `-90` blowing left |
-| `notify` | The Monday 10am reminder text (optional) |
+| `notify` | The Tuesday 10am reminder text (optional) |
 
 Describe real kicks by distance, place and time. Don't name players or teams.
 Remove the block to turn the challenge off.
