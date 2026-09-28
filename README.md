@@ -35,6 +35,10 @@ Put artwork in `sponsors/` and list it by full URL, e.g.
 | `board` | 1068×64 | Strip along the bottom of the video board |
 | `pad` | 512×128 logo, or 1024×920 full wrap | Goal post pad, fully wrapped. A wide logo runs up the pad on its own background colour; a near-square image is used as the whole wrap |
 | `net` | 1024×410, transparent PNG | Printed on the kicking net behind the posts — seen on every kick |
+| `ball` | 512×128, transparent PNG | Printed along one panel of the ball, beside the laces |
+| `tee` | 512×128 | Wraps the kicking tee in the logo's background colour |
+
+Any slot you leave out shows plain stadium (dark boards, bare net, plain ball). Nothing fills in with house ads.
 
 ```json
 "sponsors": {
