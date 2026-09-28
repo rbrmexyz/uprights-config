@@ -11,9 +11,9 @@
     "yardLineMaxAdd": 26,
     "sweetSpot": 0.24,
     "aimSensitivity": 0.5,
-    "idealMargin": 1.1,
-    "overcookShank": 1.6,
-    "overcookSpray": 0.1,
+    "idealMargin": 1.25,
+    "overcookShank": 1.1,
+    "overcookSpray": 0.07,
     "flickBase": 8,
     "flickGain": 7,
     "maxSpeed": 31

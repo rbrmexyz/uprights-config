@@ -19,9 +19,9 @@ no new build needed. Leave a number out and the app uses its built-in default.
 | `yardLineMaxAdd` | Extra yards of range at full difficulty | 26 |
 | `sweetSpot` | Clean-contact zone as a share of the ball's width (0–0.9) | 0.24 |
 | `aimSensitivity` | How much the swipe angle turns the kick | 0.5 |
-| `idealMargin` | Ideal flick = just clears the bar × this | 1.1 |
-| `overcookShank` | How much an overswing knocks the strike off-centre | 1.6 |
-| `overcookSpray` | Extra aim spray from an overswing | 0.1 |
+| `idealMargin` | Ideal flick = just clears the bar × this | 1.25 |
+| `overcookShank` | How much an overswing knocks the strike off-centre | 1.1 |
+| `overcookSpray` | Extra aim spray from an overswing | 0.07 |
 | `flickBase` | Launch speed (m/s) of the gentlest flick | 8 |
 | `flickGain` | How much faster the ball goes per unit of flick speed — raise it if long kicks feel out of reach | 7 |
 | `maxSpeed` | Hardest possible kick (m/s); 31 reaches ~75 yards in still air | 31 |
